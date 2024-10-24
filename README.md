@@ -18,4 +18,23 @@ CLIP Paper: https://arxiv.org/pdf/2111.15664
 
 https://www.geeksforgeeks.org/understanding-clip-vit-h-14safetensors-a-deep-dive-into-clip-models-and-safetensors/
 
+https://openai.com/index/clip/
+
+https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_ZegCLIP_Towards_Adapting_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2023_paper.pdf
+
+https://learnopencv.com/clip-model/
+
+https://www.geeksforgeeks.org/understanding-clip-vit-h-14safetensors-a-deep-dive-into-clip-models-and-safetensors/
+
+https://huggingface.co/docs/transformers/model_doc/clip
+
+https://openai.com/index/clip/
+
+https://arxiv.org/pdf/2111.15664
+
+https://github.com/OpenAI/CLIP
+
+https://github.com/mlfoundations/open_clip/blob/main/docs/Interacting_with_open_clip.ipynb
+
+
 
