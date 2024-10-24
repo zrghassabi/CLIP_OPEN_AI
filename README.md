@@ -16,4 +16,6 @@ CLIP (Contrastive Language-Image Pre-training): This innovative model is pre-tra
 
 CLIP Paper: https://arxiv.org/pdf/2111.15664
 
+https://www.geeksforgeeks.org/understanding-clip-vit-h-14safetensors-a-deep-dive-into-clip-models-and-safetensors/
+
 
