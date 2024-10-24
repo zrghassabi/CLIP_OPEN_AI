@@ -8,6 +8,8 @@ https://learnopencv.com/clip-model/
 
 https://github.com/OpenAI/CLIP?tab=readme-ov-file
 
+https://huggingface.co/docs/transformers/model_doc/clip
+
 https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_ZegCLIP_Towards_Adapting_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2023_paper.pdf
 
 CLIP (Contrastive Language-Image Pre-training): This innovative model is pre-trained on a large dataset of text and image pairs. By learning to match text descriptions to corresponding images, CLIP develops an inherent understanding of the connection between language and visual content.
