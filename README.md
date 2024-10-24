@@ -4,6 +4,8 @@ https://medium.com/@Mert.A/zero-shot-image-classification-with-clip-and-huggingf
 
 https://www.geeksforgeeks.org/understanding-clip-vit-h-14safetensors-a-deep-dive-into-clip-models-and-safetensors/
 
+https://learnopencv.com/clip-model/
+
 CLIP (Contrastive Language-Image Pre-training): This innovative model is pre-trained on a large dataset of text and image pairs. By learning to match text descriptions to corresponding images, CLIP develops an inherent understanding of the connection between language and visual content.
 
 CLIP Paper: https://arxiv.org/pdf/2111.15664
