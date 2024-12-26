@@ -37,4 +37,10 @@ https://github.com/OpenAI/CLIP
 https://github.com/mlfoundations/open_clip/blob/main/docs/Interacting_with_open_clip.ipynb
 
 
+------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=GLa7z5rkSf4&t=73s
+
+https://www.kaggle.com/code/moeinshariatnia/openai-clip-simple-implementation/notebook
+
+
 
