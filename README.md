@@ -42,5 +42,9 @@ https://www.youtube.com/watch?v=GLa7z5rkSf4&t=73s
 
 https://www.kaggle.com/code/moeinshariatnia/openai-clip-simple-implementation/notebook
 
+MEDCLIP:
+
+https://github.com/RyanWangZf/MedCLIP/tree/main
+
 
 
