@@ -69,6 +69,8 @@ https://www.youtube.com/watch?v=5gmsIeBeIRo
 
 ActionCLIP
 
+https://arxiv.org/pdf/2109.08472
+
 https://github.com/sallymmx/ActionCLIP/blob/master/ActionCLIP.jpg
 
 
