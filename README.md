@@ -48,6 +48,10 @@ https://github.com/RyanWangZf/MedCLIP/tree/main
 
 https://github.com/stanfordmlgroup/chexpert-labeler
 
+CLIPSEG
+
+https://huggingface.co/docs/transformers/model_doc/clipseg
+
 
 
 
