@@ -73,6 +73,12 @@ https://arxiv.org/pdf/2109.08472
 
 https://github.com/sallymmx/ActionCLIP/blob/master/ActionCLIP.jpg
 
+XCLIP
+
+https://github.com/microsoft/VideoX/tree/master/X-CLIP
+
+https://arxiv.org/pdf/2208.02816
+
 
 
 
