@@ -52,8 +52,10 @@ CLIPSEG
 
 https://huggingface.co/docs/transformers/model_doc/clipseg
 
-
 https://github.com/timojl/clipseg/tree/master
+
+visual prompt Tuning
+https://github.com/KMnP/vpt
 
 
 
