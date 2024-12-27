@@ -67,6 +67,10 @@ videoCLIP
 
 https://www.youtube.com/watch?v=5gmsIeBeIRo
 
+ActionCLIP
+
+https://github.com/sallymmx/ActionCLIP/blob/master/ActionCLIP.jpg
+
 
 
 
