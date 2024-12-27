@@ -61,6 +61,8 @@ DETR
 
 https://github.com/KMnP/vpt
 
+https://www.youtube.com/watch?v=T35ba_VXkMY&t=1693s
+
 
 
 
