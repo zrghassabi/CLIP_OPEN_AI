@@ -46,5 +46,9 @@ MEDCLIP:
 
 https://github.com/RyanWangZf/MedCLIP/tree/main
 
+https://github.com/stanfordmlgroup/chexpert-labeler
+
+
+
 
 
