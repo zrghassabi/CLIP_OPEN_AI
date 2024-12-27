@@ -57,6 +57,10 @@ https://github.com/timojl/clipseg/tree/master
 visual prompt Tuning
 https://github.com/KMnP/vpt
 
+DETR
+
+https://github.com/KMnP/vpt
+
 
 
 
