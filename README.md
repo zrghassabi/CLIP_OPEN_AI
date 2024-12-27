@@ -53,6 +53,8 @@ CLIPSEG
 https://huggingface.co/docs/transformers/model_doc/clipseg
 
 
+https://github.com/timojl/clipseg/tree/master
+
 
 
 
