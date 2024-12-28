@@ -113,9 +113,14 @@ https://arxiv.org/pdf/2111.02114
 
 CLIP retrieval 
 
+
 https://github.com/rom1504/clip-retrieval
 
 https://github.com/rom1504/clip-retrieval/blob/main/notebook/retrieval_example.ipynb
+
+https://laion.ai/blog/laion-5b/
+
+
 
 
 
