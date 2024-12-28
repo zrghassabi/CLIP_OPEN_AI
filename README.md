@@ -130,6 +130,8 @@ Kaggle
 
 https://www.kaggle.com/code/moeinshariatnia/openai-clip-simple-implementation/notebook
 
+https://www.kaggle.com/models/ecemnuryildizcan/openai-clip
+
 
 
 
