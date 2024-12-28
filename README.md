@@ -79,6 +79,10 @@ https://github.com/microsoft/VideoX/tree/master/X-CLIP
 
 https://arxiv.org/pdf/2208.02816
 
+S3D text-video instructional videos
+
+https://github.com/antoine77340/S3D_HowTo100M
+
 
 
 
