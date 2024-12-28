@@ -126,6 +126,10 @@ Fine tuning clip with sattelite images:
 
 https://huggingface.co/blog/fine-tune-clip-rsicd
 
+Kaggle
+
+https://www.kaggle.com/code/moeinshariatnia/openai-clip-simple-implementation/notebook
+
 
 
 
