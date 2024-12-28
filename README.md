@@ -83,6 +83,12 @@ S3D text-video instructional videos
 
 https://github.com/antoine77340/S3D_HowTo100M
 
+fairseg
+
+https://github.com/facebookresearch/fairseq/tree/main
+
+Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
+
 
 
 
