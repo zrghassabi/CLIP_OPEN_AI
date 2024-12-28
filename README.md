@@ -118,6 +118,8 @@ https://github.com/rom1504/clip-retrieval
 
 https://github.com/rom1504/clip-retrieval/blob/main/notebook/retrieval_example.ipynb
 
+https://colab.research.google.com/github/criteo/autofaiss/blob/master/docs/notebooks/autofaiss_multimodal_search.ipynb#scrollTo=0seHT2GhnEC1
+
 https://laion.ai/blog/laion-5b/
 
 
