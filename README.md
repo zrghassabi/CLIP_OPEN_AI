@@ -89,6 +89,34 @@ https://github.com/facebookresearch/fairseq/tree/main
 
 Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
 
+Open-clip
+
+https://colab.research.google.com/github/mlfoundations/open_clip/blob/master/docs/Interacting_with_open_clip.ipynb
+
+Open-COCO
+
+https://colab.research.google.com/github/mlfoundations/open_clip/blob/master/docs/Interacting_with_open_coca.ipynb
+
+Open-clip in hugging face
+
+https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224
+
+https://huggingface.co/models?library=open_clip
+
+Laion
+
+https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K
+
+https://laion.ai/blog/laion-5b/
+
+https://arxiv.org/pdf/2111.02114
+
+CLIP retrieval 
+
+https://github.com/rom1504/clip-retrieval
+
+https://github.com/rom1504/clip-retrieval/blob/main/notebook/retrieval_example.ipynb
+
 
 
 
