@@ -132,6 +132,10 @@ https://www.kaggle.com/code/moeinshariatnia/openai-clip-simple-implementation/no
 
 https://www.kaggle.com/models/ecemnuryildizcan/openai-clip
 
+Finetuning
+
+https://colab.research.google.com/github/iterative/datachain-examples/blob/main/multimodal/clip_fine_tuning.ipynb
+
 
 
 
