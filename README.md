@@ -122,6 +122,9 @@ https://colab.research.google.com/github/criteo/autofaiss/blob/master/docs/noteb
 
 https://laion.ai/blog/laion-5b/
 
+Fine tuning clip with sattelite images:
+
+https://huggingface.co/blog/fine-tune-clip-rsicd
 
 
 
