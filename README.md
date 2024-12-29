@@ -145,7 +145,14 @@ hugging face
 https://github.com/huggingface/transformers/blob/main/examples/pytorch/contrastive-image-text/run_clip.py
 
 x-clip
+
 https://huggingface.co/docs/transformers/model_doc/xclip
+
+https://github.com/microsoft/VideoX/tree/master/X-CLIP
+
+https://arxiv.org/pdf/2208.02816
+
+
 
 
 
