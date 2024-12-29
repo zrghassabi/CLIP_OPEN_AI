@@ -140,6 +140,10 @@ CLIP embeddings to improve multimodal RAG with GPT-4 Vision
 
 https://cookbook.openai.com/examples/custom_image_embedding_search
 
+hugging face
+
+https://github.com/huggingface/transformers/blob/main/examples/pytorch/contrastive-image-text/run_clip.py
+
 
 
 
