@@ -136,6 +136,10 @@ Finetuning
 
 https://colab.research.google.com/github/iterative/datachain-examples/blob/main/multimodal/clip_fine_tuning.ipynb
 
+CLIP embeddings to improve multimodal RAG with GPT-4 Vision
+
+https://cookbook.openai.com/examples/custom_image_embedding_search
+
 
 
 
